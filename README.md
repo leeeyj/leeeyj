@@ -22,4 +22,4 @@ I am interested in **Cryptology**, **Digital Forensic**, **Data Science** and **
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeeyj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### Stack 💡
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-007396?style=flat-square&logo=C&logoColor=white"/>
