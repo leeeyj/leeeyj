@@ -19,3 +19,4 @@ I am a student at Kookmin Univ from South Korea.
 I am interested in **Cryptology**, **Digital Forensic**, **Data Science** and **Devlopment**🔐💻📄⚙️  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeeyj)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeeyj)
