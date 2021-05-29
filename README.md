@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello, I'm Yongjin Lee!  
-I am YongJin Lee, a student at Kookmin Univ from Seoul Korea.  
-I am interested in Cryptology, Digital Forensic and Data science.
+I am a student at Kookmin Univ from South Korea.  
+I am interested in
+### Cryptology, Digital Forensic, Data Science and Devlopment
