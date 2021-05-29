@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am YongJin Lee, a student at Kookmin Univ from Seoul Korea.
+I am YongJin Lee, a student at Kookmin Univ from Seoul Korea.  
 I am interested in Cryptology, Digital Forensic and Data science.
