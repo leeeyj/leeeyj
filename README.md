@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello, I'm Yongjin Lee! 😄  
-I am a student at Kookmin Univ from South Korea. And my major is Inform, Security of Crypto, math.
+I am a student at Kookmin Univ from South Korea. And my major is Inform, Security of Crypto, math.  
 I am interested in **Cryptology**, **Digital Forensic**, **Data Science** and **Devlopment**🔐💻📄⚙️  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leeeyj)](https://github.com/anuraghazra/github-readme-stats)  
