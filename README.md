@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello, I'm Yongjin Lee! 😄  
+### Hello, I'm Yongjin Lee! 😄⚡  
 I am a student at Kookmin Univ from South Korea. And my major is Inform, Security of Crypto, math.  
 I am interested in **Cryptology**, **Digital Forensic**, **Data Science** and **Devlopment**🔐💻📄⚙️  
 
